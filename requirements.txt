@@ -1,0 +1,8 @@
+streamlit>=1.49,<2.0
+groq>=0.30.0
+sentence-transformers>=5.0.0
+faiss-cpu>=1.10.0
+PyMuPDF>=1.26.0
+Pillow>=11.0.0
+pytesseract>=0.3.13
+numpy>=2.0.0
